@@ -1,0 +1,4 @@
+﻿  XOC.cpp
+D:\Dima\XOC\XOC\XOC.cpp(22): warning C4091: typedef : пропускается слева от "cort", когда ни одна переменная не объявлена
+D:\Dima\XOC\XOC\XOC.cpp(430): warning C4715: CompStep: значение возвращается не при всех путях выполнения
+  XOC.vcxproj -> D:\Dima\XOC\Debug\XOC.exe
